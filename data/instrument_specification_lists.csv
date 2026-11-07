@@ -1,0 +1,55 @@
+instrument,mode,substance,listed
+IMS-A,all modes (one list),GA,Y
+IMS-A,all modes (one list),GB,Y
+IMS-A,all modes (one list),GD,Y
+IMS-A,all modes (one list),GF,N
+IMS-A,all modes (one list),VX,Y
+IMS-A,all modes (one list),HD,Y
+IMS-A,all modes (one list),HN3,N
+IMS-A,all modes (one list),Lewisite,Y
+IMS-A,all modes (one list),CK,Y
+IMS-A,all modes (one list),AC,Y
+IMS-A,all modes (one list),CG,Y
+IMS-A,all modes (one list),DPGME,Y
+IMS-A,all modes (one list),MS,Y
+IMS-B,CWA,GA,Y
+IMS-B,CWA,GB,Y
+IMS-B,CWA,GD,Y
+IMS-B,CWA,GF,Y
+IMS-B,CWA,VX,Y
+IMS-B,CWA,HD,Y
+IMS-B,CWA,HN3,Y
+IMS-B,CWA,Lewisite,Y
+IMS-B,CWA,CK,Y
+IMS-B,CWA,AC,Y
+IMS-B,CWA,CG,N
+IMS-B,CWA,DPGME,N
+IMS-B,CWA,MS,N
+IMS-B,STD (CWA list plus TIC list),GA,Y
+IMS-B,STD (CWA list plus TIC list),GB,Y
+IMS-B,STD (CWA list plus TIC list),GD,Y
+IMS-B,STD (CWA list plus TIC list),GF,Y
+IMS-B,STD (CWA list plus TIC list),VX,Y
+IMS-B,STD (CWA list plus TIC list),HD,Y
+IMS-B,STD (CWA list plus TIC list),HN3,Y
+IMS-B,STD (CWA list plus TIC list),Lewisite,Y
+IMS-B,STD (CWA list plus TIC list),CK,Y
+IMS-B,STD (CWA list plus TIC list),AC,Y
+IMS-B,STD (CWA list plus TIC list),CG,Y
+IMS-B,STD (CWA list plus TIC list),DPGME,N
+IMS-B,STD (CWA list plus TIC list),MS,N
+DMS,CWA,GA,Y
+DMS,CWA,GB,Y
+DMS,CWA,GD,Y
+DMS,CWA,GF,Y
+DMS,CWA,VX,Y
+DMS,CWA,HD,Y
+DMS,CWA,HN3,Y
+DMS,CWA,Lewisite,Y
+DMS,CWA,CK,Y
+DMS,CWA,AC,Y
+DMS,CWA,CG,N
+DMS,CWA,DPGME,N
+DMS,CWA,MS,N
+DMS,TIC,CK,Y
+DMS,TIC,AC,Y
