@@ -32,7 +32,8 @@ the records that scope requires.
 | `code/single_vs_mixture.py` | Per-agent comparison of single-agent and mixture results |
 | `code/vapor_ratio.py` | Pure-component vapor-pressure ratio for each mixture, and the two saturation concentrations quoted in SI S3 |
 | `code/fig_toc.py` | Table-of-contents graphic |
-| `code/fig_card.py` | Figure S1, the one-page field card |
+| `code/fig_card.py` | Figure 3, the one-page field card |
+| `code/fig_timing.py` | Figure 2, time to first report and time to clear down |
 | `data/transcription_audit.csv` | The nine adjudicated items of the transcription audit reported in SI S1.3, anonymised and translated |
 | `code/si_tables.py` | Regenerates Tables S1--S5 of the Supporting Information from these CSVs |
 | `LICENSE` | CC BY 4.0 for the data, MIT for the code |
