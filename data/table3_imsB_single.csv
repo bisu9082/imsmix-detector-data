@@ -1,0 +1,27 @@
+mode,agent,agent_class,detect_time_s,reported_species,stabilize_s,outcome,spec_footnote,repeat_mark,confidence,note
+CWA,GA,nerve,1.5,GA(5),42.3,detected,,,high,
+CWA,GB,nerve,2.4,GB(6),31.7,detected,,,high,
+CWA,GD,nerve,1.9,GD/GF(6),23.3,detected,,,high,two agents alarmed under one merged designation; stated in the text
+CWA,GF,nerve,3.2,GD/GF(6),24.4,detected,,,high,two agents alarmed under one merged designation; stated in the text
+CWA,VX,nerve,6.2,VX-R(4),19.9,detected,,,high,"displayed as VX-R; VR (Russian VX) is a distinct agent, not a synonym for VX, so this is coded as the name of a different agent"
+CWA,HD,blister,7.2,HD(4),28.8,detected,,,high,
+CWA,HN3,blister,,,,not_detected,,,high,listed in the specification but not detected; transcribed from the campaign record and stated in the text
+CWA,Lewisite,blister,2.8,Lewisite(3),25.6,detected,,,high,
+CWA,CK,blood,2.8,CK(8),15.6,detected,,,high,source report independently states detection as CK in CWA mode; corroborates the bar-count reading
+CWA,AC,blood,1.6,AC(8) or CK(8),79.0,detected,,identified on a second attempt,high,"source table shows the alternative form 'AC(8) or CK(8)'; the source report describes detection as AC in CWA mode, so AC is the primary species reported and CK the offered alternative"
+CWA,CG,blood,8.1,CK(8); Lewisite(1),18.8,detected,out_of_spec,identified on a second attempt,high,out-of-specification substance reported as an authentic agent
+CWA,DPGME,sim_nerve,3.8,GB(5),22.5,detected,out_of_spec,,high,out-of-specification simulant reported as an authentic agent; stated in the text
+CWA,MS,sim_blister,8.7,HD(7),19.1,detected,out_of_spec,,high,out-of-specification simulant reported as an authentic agent; stated in the text
+STD,GA,nerve,2.7,GA(4),45.3,detected,,,high,
+STD,GB,nerve,1.9,GB(6),44.1,detected,,,high,
+STD,GD,nerve,5.1,GD/GF(6),31.0,detected,,,high,merged designation; same as CWA mode
+STD,GF,nerve,2.7,GD/GF(6),25.5,detected,,,high,merged designation; same as CWA mode
+STD,VX,nerve,2.9,VX-R(8); GB(4),26.6,detected,,identified on a second attempt,high,"display records GB as the second name; the source report describes VX as accompanied by GA/GB in about 30% of readings, so the identity of the second name is not certain from the record"
+STD,HD,blister,9.4,HD(3),35.4,detected,,,high,
+STD,HN3,blister,,,,not_detected,,,high,"listed in the specification but not detected; transcribed from the campaign record, same as CWA mode"
+STD,Lewisite,blister,3.1,Lewisite(5),24.7,detected,,,high,
+STD,CK,blood,2.0,TIC(8),20.0,detected,,,high,"source report: detected as 'TIC' in STD mode; a class label, not a species"
+STD,AC,blood,2.0,TIC(8),66.6,detected,,,high,source report: detected as 'TIC' in STD mode
+STD,CG,blood,5.7,TIC(8); Lewisite(3),22.9,detected,,identified on a second attempt,high,"phosgene (COCl2) is on this instrument's TIC list, so it is within specification in STD mode; the class label TIC is correct at class level, but the display also carried Lewisite, which was not present"
+STD,DPGME,sim_nerve,5.8,GB(5),22.8,detected,out_of_spec,,high,out-of-specification simulant reported as an authentic agent; same as CWA mode
+STD,MS,sim_blister,3.2,HD(5/6),29.1,detected,out_of_spec,,med,bar count transcribed as '5/6'; reading to be re-checked

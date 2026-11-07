@@ -1,0 +1,16 @@
+mixture,agent_a,agent_b,ims_a,ims_b,dms,note
+GB+Lewisite,GB,Lewisite,class_alarm_only,both,not_detected,
+GB+AC,GB,AC,class_alarm_only,misID,not_detected,
+HD+Lewisite,HD,Lewisite,class_alarm_only,partial,partial,
+VX+HD,VX,HD,class_alarm_only,partial,misID,VX returned as VX-R; coded as a different agent per the Methods rule
+AC+CK,AC,CK,class_alarm_only,partial,not_detected,
+GB+HD,GB,HD,class_alarm_only,both,not_detected,
+GB+CK,GB,CK,class_alarm_only,both,not_detected,
+Lewisite+AC,Lewisite,AC,class_alarm_only,misID,not_detected,
+VX+Lewisite,VX,Lewisite,class_alarm_only,partial,not_detected,
+GB+VX,GB,VX,class_alarm_only,partial,not_detected,
+HD+AC,HD,AC,class_alarm_only,misID,misID,
+Lewisite+CK,Lewisite,CK,class_alarm_only,both,partial,
+HD+CK,HD,CK,class_alarm_only,partial,not_detected,
+VX+AC,VX,AC,class_alarm_only,misID,misID,
+VX+CK,VX,CK,class_alarm_only,partial,not_detected,VX returned as VX-R; coded as a different agent per the Methods rule
