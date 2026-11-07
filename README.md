@@ -127,7 +127,8 @@ python3 code/counts.py             # every count reported in the Results
 python3 code/mixture_outcomes.py          # counts and proportions, binary mixtures only
 python3 code/fig_baseline.py       # Figure 1
 python3 code/fig_toc.py            # table-of-contents graphic
-python3 code/fig_card.py           # Figure S1, the field card
+python3 code/fig_card.py           # Figure 3, the field card
+python3 code/fig_timing.py         # Figure 2, detect and clear-down times
 python3 code/si_tables.py          # regenerates SI Tables S1-S5 from these CSVs
 python3 code/fig_outcomes.py       # binary-mixture outcomes (not in the paper)
 python3 code/single_vs_mixture.py  # per-agent single vs mixture (not in the paper)
